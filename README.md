@@ -1,0 +1,1 @@
+![example](https://raw.githubusercontent.com/wouterken/SierpinskiJS/master/example.png?raw=true)
